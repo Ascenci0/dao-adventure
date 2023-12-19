@@ -16,11 +16,11 @@ The **DAO Adventure** is a **free** and **open source** educational program desi
 - The [Motoko language](https://www.youtube.com/watch?v=6YIBRI-1RJs): a new programming language designed for the Internet Computer. It is native to the Internet Computer and optimized for building directly on the blockchain.
 - **DAOs**: a new type of organization (or company) that runs leveraging blockchain technology. This enables us to create more transparent, trusted and efficient organisations.
 
-The **DAO adventure\*** is divided into 3 phases:
+The \*\*DAO adventure\*\* is divided into 3 phases:
 
-- **Initiation Phase**: you will learn the basics of Web3, the Internet Computer and deploy your first application.
-- **Training Phase**: you will dive into DAOs and master the Motoko language.
-- **Graduation Phase**: you will prove your skills by building and deploying your own micro-DAO on the Internet Computer.
+1.  **Initiation Phase**: you will learn the basics of Web3, the Internet Computer and deploy your first application.
+2.  **Training Phase**: you will dive into DAOs and master the Motoko language.
+3.  **Graduation Phase**: you will prove your skills by building and deploying your own micro-DAO on the Internet Computer.
 
 The **DAO Adventure** is a gamified experience. You will be able to automatically record your progression through the [Motoko Bootcamp Dashboard](https://www.motokobootcamp.com/).
 
@@ -81,5 +81,7 @@ If you are looking for inspiration, here is a compilation of the projects that o
 ## Credits
 
 An initiative 100% powered and supported by [Code & State](https://www.codeandstate.com/) - the leading venture studio building on the **Internet Computer**.
+
+## Final words
 
 **Let’s f∞cking build!**
