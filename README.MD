@@ -76,7 +76,7 @@ However, if you wish to install and work locally, then you can follow the [offic
 
 <p align="center"><img src="./assets/cover_4.png" /></p>
 
-- Estimated duration: 2 days.
+
 - Objective: build and deploy your own micro-DAO on the Internet Computer.
 - Repository: [DAO Adventure - Graduation Phase](https://github.com/motoko-bootcamp/dao-adventure-graduation)
 - Reward: The **Graduate** role and **Motoko Bootcamp Diploma NFT**.
