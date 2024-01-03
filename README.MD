@@ -6,6 +6,7 @@
 
 ## Important resources 📌
 
+- [Presentation video](https://www.youtube.com/watch?v=gHzrssylmh0)
 - [Motoko Bootcamp Dashboard](https://www.motokobootcamp.com/) (Click on **Login** to access)
 - [Motoko Bootcamp Calendar](https://calendar.google.com/calendar/u/0/embed?src=c_1a1c0c95f41c3d5729532726aaa57d96e991c5d3254b0f9e02fdf4d9babf4401@group.calendar.google.com)
 - [Motoko Bootcamp Discord](https://discord.gg/qEF2W3dBrd)
