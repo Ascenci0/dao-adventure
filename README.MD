@@ -56,7 +56,7 @@ However, if you wish to install and work locally, then you can follow the [offic
 
 ## Phases 📚
 
-### Initiation Phase - 1-2 hours
+## Initiation Phase | 1-2 hours
 
 <p align="center"><img src="./assets/cover_2.png" /></p>
 
@@ -64,7 +64,7 @@ However, if you wish to install and work locally, then you can follow the [offic
 - Repository: [DAO Adventure - Initiation Phase](https://github.com/motoko-bootcamp/dao-adventure-initiation)
 - Reward: The **Student** role and access to our OpenChat community.
 
-## Training Phase - 5 days (4-5 hours per day)
+## Training Phase | 5 days
 
 <p align="center"><img src="./assets/cover_3.png" /></p>
 
@@ -72,7 +72,7 @@ However, if you wish to install and work locally, then you can follow the [offic
 - Repository: [DAO Adventure - Training Phase](https://github.com/motoko-bootcamp/dao-adventure-training)
 - Reward: The **Trained** role.
 
-## Graduation Phase - 2 days (4-5 hours per day)
+## Graduation Phase | 2 days
 
 <p align="center"><img src="./assets/cover_4.png" /></p>
 
