@@ -55,7 +55,7 @@ However, if you wish to install and work locally, then you can follow the [offic
 
 ### Initiation Phase - 1-2 hours
 
-[ADD IMAGE]
+<p align="center"><img src="./assets/cover_2.png" /></p>
 
 - Objective: learn the basics of Web3, the Internet Computer and deploy your first application.
 - Repository: [DAO Adventure - Initiation Phase](https://github.com/motoko-bootcamp/dao-adventure-initiation)
@@ -63,7 +63,7 @@ However, if you wish to install and work locally, then you can follow the [offic
 
 ## Training Phase - 5 days (4-5 hours per day)
 
-[ADD IMAGE]
+<p align="center"><img src="./assets/cover_3.png" /></p>
 
 - Objective: complete 5 challenges to master the Motoko language.
 - Repository: [DAO Adventure - Training Phase](https://github.com/motoko-bootcamp/dao-adventure-training)
@@ -71,7 +71,7 @@ However, if you wish to install and work locally, then you can follow the [offic
 
 ## Graduation Phase - 2 days (4-5 hours per day)
 
-[ADD IMAGE]
+<p align="center"><img src="./assets/cover_4.png" /></p>
 
 - Estimated duration: 2 days.
 - Objective: build and deploy your own micro-DAO on the Internet Computer.
