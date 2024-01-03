@@ -1,5 +1,7 @@
 # Motoko Bootcamp - DAO Adventure - Presentation
 
+<p align="center"><img src="./assets/cover_0.png" /></p>
+
 > The DAO Adventure is a free and open source educational program designed to help you learn about 3 fundamental topics: the Internet Computer, the Motoko language and DAOs. This program is divided into 3 repositories: the Initiation Phase, the Training Phase and the Graduation Phase. This repository contains a general presentation of the program and links to the 3 phases.
 
 ## Important resources 📌
