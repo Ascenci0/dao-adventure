@@ -10,6 +10,7 @@
 - [Motoko Bootcamp Dashboard](https://www.motokobootcamp.com/) (Click on **Login** to access)
 - [Motoko Bootcamp Calendar](https://calendar.google.com/calendar/u/0/embed?src=c_1a1c0c95f41c3d5729532726aaa57d96e991c5d3254b0f9e02fdf4d9babf4401@group.calendar.google.com)
 - [Motoko Bootcamp Discord](https://discord.gg/qEF2W3dBrd)
+- [General Notion Guide](https://www.notion.so/tomahawkvc/Motoko-Bootcamp-General-Guide-3209a8717d604638a4f4f88c1e447c65?pvs=4)
 - [Initiation repository](https://github.com/motoko-bootcamp/dao-adventure-initiation)
 - [Training repository](https://github.com/motoko-bootcamp/dao-adventure-training)
 - [Graduation repository](https://github.com/motoko-bootcamp/dao-adventure-graduation)
@@ -75,7 +76,6 @@ However, if you wish to install and work locally, then you can follow the [offic
 ## Graduation Phase | 2 days
 
 <p align="center"><img src="./assets/cover_4.png" /></p>
-
 
 - Objective: build and deploy your own micro-DAO on the Internet Computer.
 - Repository: [DAO Adventure - Graduation Phase](https://github.com/motoko-bootcamp/dao-adventure-graduation)
