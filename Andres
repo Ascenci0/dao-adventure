@@ -1,0 +1,18 @@
+actor {
+  let name: Text = "Andres";
+ 
+  var message: Text = "HELLO WORLD";
+  
+  public query func getname(): async Text {
+    return name;
+   };
+  
+  public func setMessage(newMessage: Text): async () {
+    message := newMessage;
+   };
+
+  public query func getmessage(): async Text {
+    return message;
+   };
+
+};
